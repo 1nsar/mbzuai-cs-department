@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160">
+  <g fill="#111111">
+    <circle cx="58" cy="38" r="18" />
+    <circle cx="104" cy="26" r="16" />
+    <circle cx="134" cy="62" r="15" />
+    <circle cx="86" cy="78" r="20" />
+    <circle cx="36" cy="86" r="16" />
+    <circle cx="66" cy="122" r="18" />
+    <circle cx="118" cy="112" r="16" />
+    <circle cx="164" cy="94" r="14" />
+    <circle cx="172" cy="46" r="14" />
+  </g>
+  <path d="M56 38c48-8 64 62 0 86" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M36 86c40-4 52-70 98-60" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M86 78c46-8 50 54 86 34" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="500">
+    <text x="220" y="70">Mohamed bin Zayed</text>
+    <text x="220" y="110">University of</text>
+    <text x="220" y="150">Artificial Intelligence</text>
+  </g>
+</svg>
