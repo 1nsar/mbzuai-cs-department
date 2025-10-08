@@ -3,6 +3,8 @@
 import { Hero } from "@/components/hero";
 import { FeatureCards } from "@/components/feature-cards";
 import MinervaHero from "@/components/minerva-hero";
+import MBZUAIResearchStats from "@/components/mbzuai-research-stats";
+import UniversityCollaborations from "@/components/university-collaborations";
 import StanfordNewsSection from "@/components/stanford-news-section";
 
 export default function HomePage() {
@@ -39,8 +41,10 @@ export default function HomePage() {
           },
         ]}
       />
-      <MinervaHero />
-      <StanfordNewsSection />
+  <MinervaHero />
+  <UniversityCollaborations />
+  <StanfordNewsSection />
+  <MBZUAIResearchStats />
     </div>
   );
 }

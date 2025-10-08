@@ -111,7 +111,7 @@ const StanfordNewsSection = () => {
         </div>
 
         {/* Bottom link */}
-        <div className="mt-8 text-center">
+  <div className="mt-4 text-center">
           <a
             href="#"
               className="inline-flex items-center text-blue-700 font-semibold hover:text-blue-800 transition-colors group">
@@ -122,7 +122,7 @@ const StanfordNewsSection = () => {
       </div>
 
       {/* Bottom Border */}
-      <div className="max-w-7xl mx-auto px-6 mt-16">
+      <div className="max-w-7xl mx-auto px-6 mt-6">
         <div className="border-t-2 border-gray-900"></div>
       </div>
     </div>
